@@ -1,2 +1,2 @@
-# 10hourlab-game
+# 10hourlabs-game
 X&amp;O
